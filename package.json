@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/email-validator",
+  "version": "1.0.0",
+  "description": "Validate one or many email addresses in the browser. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "email-validator.js",
+  "unpkg": "email-validator.js",
+  "files": ["email-validator.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "email validation tool", "validate email", "check email format"],
+  "homepage": "https://sgbp.tech/tools/email-validator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
